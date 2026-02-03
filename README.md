@@ -1,9 +1,6 @@
 ## Olá eu sou o Wendell Ramos  👋
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendell-ramos&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendell-ramos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 ### 🛠️ Tecnologias que trabalho!
 
