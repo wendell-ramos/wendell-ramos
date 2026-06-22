@@ -80,6 +80,19 @@ Portfólio audiovisual desenvolvido para um filmmaker de João Pessoa/PB, com Re
 </td>
 <td width="50%" valign="top">
 
+### Portfólio Interativo
+
+Portfólio responsivo inspirado em uma área de trabalho retrô, com janelas interativas, projetos, eventos, habilidades e currículo.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+[Ver projeto](https://wendell-ramos.github.io/portfolio-wendell-ramos/) | [Repositório](https://github.com/wendell-ramos/portfolio-wendell-ramos)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### FinControl
 
 Sistema de controle financeiro pessoal com dashboard, receitas, despesas, metas e categorização de transações.
@@ -89,8 +102,6 @@ Sistema de controle financeiro pessoal com dashboard, receitas, despesas, metas 
 [Ver projeto](https://fincontrol-wendell-fgdjdzd5esd2d4fq.brazilsouth-01.azurewebsites.net/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Sistema de Perícia Contábil
@@ -100,17 +111,6 @@ Sistema web para gestão de atividades de perícia contábil, com autenticação
 `C#` `ASP.NET MVC` `Entity Framework` `PostgreSQL` `Azure`
 
 [Ver projeto](https://projetopericiawendell-akdfcebzetfzdefz.brazilsouth-01.azurewebsites.net/Usuario/Login)
-
-</td>
-<td width="50%" valign="top">
-
-### Portfólio Interativo
-
-Portfólio responsivo inspirado em uma área de trabalho retrô, com janelas interativas, projetos, eventos, habilidades e currículo.
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-[Ver projeto](https://wendell-ramos.github.io/portfolio-wendell-ramos/) | [Repositório](https://github.com/wendell-ramos/portfolio-wendell-ramos)
 
 </td>
 </tr>
