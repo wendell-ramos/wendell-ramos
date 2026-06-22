@@ -104,13 +104,13 @@ Sistema web para gestão de atividades de perícia contábil, com autenticação
 </td>
 <td width="50%" valign="top">
 
-### Gerenciador Escolar
+### Portfólio Interativo
 
-Aplicação desktop para cadastro de alunos e professores, lançamento e visualização de notas.
+Portfólio responsivo inspirado em uma área de trabalho retrô, com janelas interativas, projetos, eventos, habilidades e currículo.
 
-`C#` `WPF` `SQL Server`
+`HTML` `CSS` `JavaScript` `GitHub Pages`
 
-[Ver repositório](https://github.com/wendell-ramos/GerenciadorEscolar)
+[Ver projeto](https://wendell-ramos.github.io/portfolio-wendell-ramos/) | [Repositório](https://github.com/wendell-ramos/portfolio-wendell-ramos)
 
 </td>
 </tr>
