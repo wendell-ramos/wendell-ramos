@@ -19,7 +19,7 @@ Transformo ideias e processos em aplicações web, sistemas desktop e automaçõ
 - Cursando **Sistemas de Informação** na Toledo Prudente Centro Universitário
 - Experiência com **desenvolvimento de sistemas e automação de processos**
 - Interesse em aplicações web, sistemas desktop, bancos de dados e inteligência artificial
-- Vivência com publicação de aplicações na **Azure**
+- Vivência com publicação de aplicações na **Azure** e **Cloudflare**
 - Localizado em **Presidente Prudente - SP**
 - Inglês intermediário
 
@@ -39,6 +39,8 @@ Transformo ideias e processos em aplicações web, sistemas desktop e automaçõ
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -49,6 +51,7 @@ Transformo ideias e processos em aplicações web, sistemas desktop e automaçõ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### Desenvolvimento
 
@@ -66,28 +69,15 @@ Transformo ideias e processos em aplicações web, sistemas desktop e automaçõ
 <tr>
 <td width="50%" valign="top">
 
-### Portfólio Interativo
+### Edvaldo Films
 
-Portfólio responsivo inspirado em uma área de trabalho retrô, com janelas, barra de tarefas, linha do tempo, currículo e projetos.
+Portfólio audiovisual desenvolvido para um filmmaker de João Pessoa/PB, com Reels, comerciais, lifestyle e captação aérea em uma experiência interativa, responsiva e orientada a vídeo.
 
-`HTML` `CSS` `JavaScript` `GitHub Pages`
+`React` `JavaScript` `Vite` `Cloudflare`
 
-[Ver projeto](https://wendell-ramos.github.io/portfolio-wendell-ramos/) | [Repositório](https://github.com/wendell-ramos/portfolio-wendell-ramos)
-
-</td>
-<td width="50%" valign="top">
-
-### Sistema de Perícia Contábil
-
-Sistema web para gestão de atividades de perícia contábil, com autenticação, permissões, tarefas e fluxo de análise.
-
-`C#` `ASP.NET MVC` `Entity Framework` `PostgreSQL` `Azure`
-
-[Ver projeto](https://projetopericiawendell-akdfcebzetfzdefz.brazilsouth-01.azurewebsites.net/Usuario/Login)
+[Ver projeto](https://edvaldofilms.com.br/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### FinControl
@@ -97,6 +87,19 @@ Sistema de controle financeiro pessoal com dashboard, receitas, despesas, metas 
 `Node.js` `PostgreSQL` `Supabase` `Azure`
 
 [Ver projeto](https://fincontrol-wendell-fgdjdzd5esd2d4fq.brazilsouth-01.azurewebsites.net/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sistema de Perícia Contábil
+
+Sistema web para gestão de atividades de perícia contábil, com autenticação, permissões, tarefas e fluxo de análise.
+
+`C#` `ASP.NET MVC` `Entity Framework` `PostgreSQL` `Azure`
+
+[Ver projeto](https://projetopericiawendell-akdfcebzetfzdefz.brazilsouth-01.azurewebsites.net/Usuario/Login)
 
 </td>
 <td width="50%" valign="top">
@@ -115,8 +118,8 @@ Aplicação desktop para cadastro de alunos e professores, lançamento e visuali
 
 ## Atualmente
 
-- Aprimorando meus conhecimentos em desenvolvimento web e .NET
-- Desenvolvendo projetos com integração a bancos de dados
+- Aprimorando meus conhecimentos em desenvolvimento web, React e .NET
+- Desenvolvendo projetos responsivos e integrados a bancos de dados
 - Explorando automação de processos e inteligência artificial
 - Buscando oportunidades para aplicar tecnologia na resolução de problemas reais
 
