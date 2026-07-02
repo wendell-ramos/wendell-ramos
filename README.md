@@ -52,11 +52,14 @@ Transformo ideias e processos em aplicações web, sistemas desktop e automaçõ
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### Desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -95,11 +98,11 @@ Portfólio responsivo inspirado em uma área de trabalho retrô, com janelas int
 
 ### FinControl
 
-Sistema de controle financeiro pessoal com dashboard, receitas, despesas, metas e categorização de transações.
+Sistema de controle financeiro pessoal com dashboard, receitas, despesas, metas, limite mensal, importação de extratos, CRUD de usuários e API serverless integrada a banco em nuvem.
 
-`Node.js` `PostgreSQL` `Supabase` `Azure`
+`JavaScript` `Node.js` `Cloudflare Pages` `Pages Functions` `Cloudflare D1`
 
-[Ver projeto](https://fincontrol-wendell-fgdjdzd5esd2d4fq.brazilsouth-01.azurewebsites.net/)
+[Ver projeto](https://fincontrol-2os.pages.dev/) | [API](https://fincontrol-2os.pages.dev/api/health)
 
 </td>
 <td width="50%" valign="top">
