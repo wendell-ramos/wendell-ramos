@@ -50,10 +50,34 @@ HTML5, CSS3, Vite, Entity Framework, SQL Server, Supabase, Cloudflare D1, Indexe
 ## Projetos em destaque
 
 <details open>
+<summary><strong>Edvaldo Films — Portfólio Audiovisual</strong></summary>
+<br>
+
+Projeto real desenvolvido para um filmmaker, pensado para apresentar vídeos, cases e serviços de forma visual e profissional. Inclui filtros por categoria e foi publicado com Cloudflare, DNS e domínio próprio.
+
+`React` `JavaScript` `Vite` `Cloudflare`
+
+[Ver projeto](https://edvaldofilms.com.br/) · [Ver repositório](https://github.com/wendell-ramos/edvaldo-films-portfolio)
+
+</details>
+
+<details open>
+<summary><strong>Meu Portfólio Pessoal — Desktop Retrô</strong></summary>
+<br>
+
+Portfólio pessoal em formato de desktop retrô, com navegação inspirada em um ambiente de trabalho e interações que tornam a apresentação dos projetos mais memorável.
+
+`HTML5` `CSS3` `JavaScript` `HTML Canvas`
+
+[Ver portfólio](https://wendell-ramos.github.io/portfolio-wendell-ramos/)
+
+</details>
+
+<details open>
 <summary><strong>Portfy — Gerador de Portfólios</strong></summary>
 <br>
 
-Aplicação em desenvolvimento para criar portfólios personalizados com fluxo guiado, templates, personalização visual, seções reordenáveis e salvamento automático de rascunho no navegador.
+Projeto em desenvolvimento para criar portfólios personalizados com fluxo guiado, templates, personalização visual, seções reordenáveis e salvamento automático de rascunho no navegador.
 
 `React 19` `TypeScript` `Vite` `IndexedDB`
 
@@ -62,14 +86,14 @@ Aplicação em desenvolvimento para criar portfólios personalizados com fluxo g
 </details>
 
 <details open>
-<summary><strong>Edvaldo Films — Portfólio Audiovisual</strong></summary>
+<summary><strong>Portfólio Peu</strong></summary>
 <br>
 
-Portfólio responsivo para filmmaker, com vídeos, cases, filtros por categoria e uma experiência voltada ao conteúdo visual. Publicado com Cloudflare, DNS e domínio próprio.
+Portfólio desenvolvido para cliente, com uma proposta visual criativa voltada à cultura digital, tendências e comunidades.
 
-`React` `JavaScript` `Vite` `Cloudflare`
+`HTML5` `CSS3` `JavaScript` `HTML Canvas`
 
-[Ver projeto](https://edvaldofilms.com.br/) · [Ver repositório](https://github.com/wendell-ramos/edvaldo-films-portfolio)
+[Ver projeto](https://wendell-ramos.github.io/PortfolioPeu/) · [Ver repositório](https://github.com/wendell-ramos/PortfolioPeu)
 
 </details>
 
@@ -94,18 +118,6 @@ Sistema para gestão de perícia contábil com autenticação, autorização, ta
 `C#` `ASP.NET MVC` `Entity Framework` `PostgreSQL`
 
 [Demonstração no portfólio](https://wendell-ramos.github.io/portfolio-wendell-ramos/) · [Ver repositório](https://github.com/wendell-ramos/ProjetoWebMVC)
-
-</details>
-
-<details>
-<summary><strong>Portfólio Interativo e Portfólio Peu</strong></summary>
-<br>
-
-Dois projetos focados em experiências digitais: um portfólio pessoal com navegação inspirada em uma área de trabalho retrô e uma prévia criativa para cliente, construída para cultura digital, tendências e comunidades.
-
-`HTML5` `CSS3` `JavaScript` `HTML Canvas`
-
-[Portfólio pessoal](https://wendell-ramos.github.io/portfolio-wendell-ramos/) · [Portfólio Peu](https://wendell-ramos.github.io/PortfolioPeu/) · [Repositório Peu](https://github.com/wendell-ramos/PortfolioPeu)
 
 </details>
 
