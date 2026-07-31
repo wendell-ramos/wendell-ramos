@@ -1,155 +1,130 @@
 <div align="center">
 
-# Ola, eu sou Wendell Ramos
+# Olá, eu sou Wendell Ramos
 
-### Desenvolvedor de Sistemas | Estudante de Sistemas de Informacao
+### Desenvolvedor de Software Júnior | React, TypeScript, Node.js e C#
 
-Transformo ideias, processos e referencias visuais em sistemas web, portfolios interativos e automacoes.
+Crio aplicações web, interfaces responsivas, portfólios interativos e automações que resolvem problemas reais.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-3157D5?style=for-the-badge&logo=githubpages&logoColor=white)](https://wendell-ramos.github.io/portfolio-wendell-ramos/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendellramos10/)
-[![E-mail](https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendellnascimentoramos@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-3157D5?style=for-the-badge&logo=githubpages&logoColor=white)](https://wendell-ramos.github.io/portfolio-wendell-ramos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendellramos10/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendellnascimentoramos@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mim
+## Em poucas linhas
 
-- Cursando **Sistemas de Informacao** na Toledo Prudente Centro Universitario
-- Experiencia com **desenvolvimento de sistemas, portfolios interativos e automacao de processos**
-- Interesse em aplicacoes web, sistemas desktop, bancos de dados, inteligencia artificial e experiencias digitais
-- Vivencia com publicacao de projetos na **GitHub Pages**, **Cloudflare** e **Azure**
-- Localizado em **Presidente Prudente - SP**
-- Ingles intermediario
+- Estudante de **Sistemas de Informação** na Toledo Prudente Centro Universitário.
+- Experiência com **automação de processos**, desenvolvimento web e publicação de aplicações.
+- Conhecimentos aplicados em **Python** em experiência profissional e em **C** durante a formação acadêmica.
+- Interesse em produtos digitais bem construídos: da interface e regras de negócio à integração com banco de dados e deploy.
+- Baseado em **Presidente Prudente - SP** | Inglês intermediário.
 
-## Tecnologias e ferramentas
+## Stack principal
 
 <div align="center">
 
-### Linguagens
-
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Web e frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Bancos de dados e servicos
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![IndexedDB](https://img.shields.io/badge/IndexedDB-3157D5?style=flat-square&logo=databricks&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-### Desenvolvimento
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </div>
 
+<details>
+<summary><strong>Ver tecnologias complementares</strong></summary>
+<br>
+
+HTML5, CSS3, Vite, Entity Framework, SQL Server, Supabase, Cloudflare D1, IndexedDB, Microsoft Azure, GitHub Pages, Wrangler, Excel, VBA, Figma e HTML Canvas.
+
+</details>
+
 ## Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><strong>Portfy — Gerador de Portfólios</strong></summary>
+<br>
 
-### Edvaldo Films
-
-Portfolio audiovisual desenvolvido para um filmmaker de Joao Pessoa/PB, com Reels, comerciais, lifestyle e captacao aerea em uma experiencia interativa, responsiva e orientada a video.
-
-`React` `JavaScript` `Vite` `Cloudflare`
-
-[Ver projeto](https://edvaldofilms.com.br/)
-
-</td>
-<td width="50%" valign="top">
-
-### Portfy
-
-Builder web em desenvolvimento para criar portfolios interativos e personalizaveis, com fluxo guiado, quatro templates para desenvolvedores e rascunho salvo no navegador.
+Aplicação em desenvolvimento para criar portfólios personalizados com fluxo guiado, templates, personalização visual, seções reordenáveis e salvamento automático de rascunho no navegador.
 
 `React 19` `TypeScript` `Vite` `IndexedDB`
 
-[Ver prototipo](https://wendell-ramos.github.io/GeradorPortfolios/)
+[Ver protótipo](https://wendell-ramos.github.io/GeradorPortfolios/) · [Ver repositório](https://github.com/wendell-ramos/GeradorPortfolios)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### Portfolio Peu
+<details open>
+<summary><strong>Edvaldo Films — Portfólio Audiovisual</strong></summary>
+<br>
 
-Prototipo de portfolio criativo desenvolvido para cliente, como previa navegavel de direcao visual para um profissional de cultura digital, memes, tendencias e grandes audiencias.
+Portfólio responsivo para filmmaker, com vídeos, cases, filtros por categoria e uma experiência voltada ao conteúdo visual. Publicado com Cloudflare, DNS e domínio próprio.
 
-`HTML5` `CSS3` `JavaScript` `Canvas`
+`React` `JavaScript` `Vite` `Cloudflare`
 
-[Ver previa](https://wendell-ramos.github.io/PortfolioPeu/)
+[Ver projeto](https://edvaldofilms.com.br/) · [Ver repositório](https://github.com/wendell-ramos/edvaldo-films-portfolio)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### FinControl
+<details>
+<summary><strong>FinControl — Controle Financeiro Pessoal</strong></summary>
+<br>
 
-Sistema de controle financeiro pessoal com dashboard, receitas, despesas, metas, limite mensal, importacao de extratos, CRUD de usuarios e API serverless integrada a banco em nuvem.
+Sistema web de organização financeira com dashboard, receitas, despesas, metas, categorias e movimentações. A arquitetura utiliza páginas estáticas, funções serverless e banco de dados SQL.
 
-`JavaScript` `Node.js` `Cloudflare Pages` `Pages Functions` `Cloudflare D1`
+`JavaScript` `Cloudflare Pages` `Pages Functions` `Cloudflare D1` `SQL`
 
-[Ver projeto](https://fincontrol-2os.pages.dev/) | [API](https://fincontrol-2os.pages.dev/api/health)
+[Ver projeto](https://fincontrol-2os.pages.dev/)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### Portfolio Interativo
+<details>
+<summary><strong>Sistema de Perícia Contábil</strong></summary>
+<br>
 
-Portfolio responsivo inspirado em uma area de trabalho retro, com janelas interativas, projetos, eventos, habilidades, contato e curriculo.
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-[Ver projeto](https://wendell-ramos.github.io/portfolio-wendell-ramos/) | [Repositorio](https://github.com/wendell-ramos/portfolio-wendell-ramos)
-
-</td>
-<td width="50%" valign="top">
-
-### Sistema de Pericia Contabil
-
-Sistema web para gestao de atividades de pericia contabil, com autenticacao, permissoes, tarefas e fluxo de analise. Hospedagem em revisao.
+Sistema para gestão de perícia contábil com autenticação, autorização, tarefas e fluxo de análise.
 
 `C#` `ASP.NET MVC` `Entity Framework` `PostgreSQL`
 
-</td>
-</tr>
-</table>
+[Demonstração no portfólio](https://wendell-ramos.github.io/portfolio-wendell-ramos/) · [Ver repositório](https://github.com/wendell-ramos/ProjetoWebMVC)
+
+</details>
+
+<details>
+<summary><strong>Portfólio Interativo e Portfólio Peu</strong></summary>
+<br>
+
+Dois projetos focados em experiências digitais: um portfólio pessoal com navegação inspirada em uma área de trabalho retrô e uma prévia criativa para cliente, construída para cultura digital, tendências e comunidades.
+
+`HTML5` `CSS3` `JavaScript` `HTML Canvas`
+
+[Portfólio pessoal](https://wendell-ramos.github.io/portfolio-wendell-ramos/) · [Portfólio Peu](https://wendell-ramos.github.io/PortfolioPeu/) · [Repositório Peu](https://github.com/wendell-ramos/PortfolioPeu)
+
+</details>
+
+## Experiência
+
+### Estagiário — Magalhães e Grangeiro LTDA
+
+**Maio de 2025 - Março de 2026**
+
+- Automatizei cálculos, planilhas e rotinas internas com Excel, VBA e lógica de programação.
+- Desenvolvi ferramentas para reduzir tarefas manuais, padronizar processos e melhorar a organização das atividades da equipe.
+- Transformei demandas internas em melhorias tecnológicas aplicadas à rotina da empresa.
 
 ## Atualmente
 
-- Aprimorando meus conhecimentos em desenvolvimento web, React, TypeScript e .NET
-- Criando portfolios interativos, sistemas responsivos e experiencias digitais
-- Explorando automacao de processos, bancos de dados e inteligencia artificial
-- Buscando oportunidades para aplicar tecnologia na resolucao de problemas reais
+- Aprofundando conhecimentos em desenvolvimento web full-stack com React, TypeScript e .NET.
+- Evoluindo projetos com interfaces responsivas, dados persistentes e publicação em produção.
+- Busco uma oportunidade júnior para colaborar em produtos digitais e solucionar problemas reais com tecnologia.
 
 ---
 
@@ -159,6 +134,6 @@ Sistema web para gestao de atividades de pericia contabil, com autenticacao, per
 
 Estou aberto a oportunidades, projetos e boas conversas sobre tecnologia.
 
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518998132838?text=Ola%2C%20Wendell!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518998132838?text=Olá%2C%20Wendell!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 
 </div>
