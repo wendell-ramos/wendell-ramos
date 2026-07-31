@@ -2,7 +2,7 @@
 
 # Olá, eu sou Wendell Ramos
 
-### Desenvolvedor de Software | JReact, TypeScript, Node.js e C#
+### Desenvolvedor de Software Júnior | React, TypeScript, Node.js e C#
 
 Crio aplicações web, interfaces responsivas, portfólios interativos e automações que resolvem problemas reais.
 
@@ -17,7 +17,8 @@ Crio aplicações web, interfaces responsivas, portfólios interativos e automa�
 ## Em poucas linhas
 
 - Estudante de **Sistemas de Informação** na Toledo Prudente Centro Universitário.
-- Experiência com **automação de processos**, desenvolvimento web e publicação de aplicações.
+- Experiência com **automação de processos com Python, Excel e VBA**, desenvolvimento web e publicação de aplicações.
+- Base sólida em **C**, desenvolvida durante a graduação, e experiência prática com Python em ambiente profissional.
 - Interesse em produtos digitais bem construídos: da interface e regras de negócio à integração com banco de dados e deploy.
 - Baseado em **Presidente Prudente - SP** | Inglês intermediário.
 
